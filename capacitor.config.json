@@ -1,0 +1,5 @@
+{
+  "appId": "com.capacitor.aerosync",
+  "appName": "test-aerosync-capacitor",
+  "webDir": "dist"
+}
