@@ -15,6 +15,7 @@ const handleClick = () => {
     async onEvent(event) {
       console.log("event", event);
       // uncomment below code if you want to launch the URL in the capacitor browser
+
       // try {
       //   // Check if the app is running on a native platform (iOS or Android)
       //   if (Capacitor.isNativePlatform()) {
